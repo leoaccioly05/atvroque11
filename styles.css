@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+
+#searchArea {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#resultArea {
+    margin-top: 20px;
+}
